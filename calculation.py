@@ -1,10 +1,3 @@
-#x = 1 + 3 * ((4.5 - 4.0) / (4.5 - 1.0)) # 1.86 1
-#y = ((4.5 - 1) * ((2.05 - 1) / 3)) - 4.5
-# 3.24 / 4.30
-# 3.49 / 4.50
-#print(x)
-#print(y)
-
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.stats
